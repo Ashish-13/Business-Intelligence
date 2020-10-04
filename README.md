@@ -11,4 +11,8 @@ And to measure and monitor the KPI's developed interactive **Power BI** dashboar
 
 **GoCar Data**: Data has been mocked for creating Dashboard as original data was not available.
 
+**GoCar Dashboard**: The Power BI file developed.
+
 **Dashboard**
+
+![](Dashboards/Dash1.png)
