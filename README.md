@@ -16,3 +16,7 @@ And to measure and monitor the KPI's developed interactive **Power BI** dashboar
 **Dashboard**
 
 ![](Dashboards/Dash%201.PNG)
+
+![](Dashboards/Dash%202.PNG)
+
+![](Dashboards/Dash%203.PNG)
