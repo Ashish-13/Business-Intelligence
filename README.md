@@ -15,4 +15,4 @@ And to measure and monitor the KPI's developed interactive **Power BI** dashboar
 
 **Dashboard**
 
-![](Dashboards/Dash1.png)
+![](Dashboards/Dash%201.png)
